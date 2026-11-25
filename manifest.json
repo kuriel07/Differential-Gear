@@ -1,0 +1,41 @@
+{
+  "application": {
+    "name": "CADscape",
+    "version": "0.2.0"
+  },
+  "createdAt": "2026-10-10T13:30:33.879Z",
+  "modifiedAt": "2026-10-10T13:30:33.879Z",
+  "author": "",
+  "description": "3d differential gear made of 6 bevel gear",
+  "projectVersion": 1,
+  "modelFingerprint": "0bd7037c2da52d6d352df3c43b7c16916dd06f3964d5c77809562960a5385c80",
+  "bodyFingerprints": {
+    "29808682-ac32-47e7-a6c4-301cb7d4d680": "0bd7037c2da52d6d352df3c43b7c16916dd06f3964d5c77809562960a5385c80",
+    "abc1569c-e7fb-4e80-a116-0ec60e363563": "0bd7037c2da52d6d352df3c43b7c16916dd06f3964d5c77809562960a5385c80",
+    "a5a41b8e-e2f9-40a4-84dc-45c11189443c": "0bd7037c2da52d6d352df3c43b7c16916dd06f3964d5c77809562960a5385c80",
+    "bf5b0b2a-6c0a-4822-bd70-d5674be34e3c": "0bd7037c2da52d6d352df3c43b7c16916dd06f3964d5c77809562960a5385c80",
+    "fbb51f78-d57c-4200-92ef-cdac660c4617": "0bd7037c2da52d6d352df3c43b7c16916dd06f3964d5c77809562960a5385c80",
+    "08103808-480a-4f88-be6d-ef60df53956c": "0bd7037c2da52d6d352df3c43b7c16916dd06f3964d5c77809562960a5385c80",
+    "aa4e59fc-c8b7-43b1-a902-6f2ebb5b0ea3": "0bd7037c2da52d6d352df3c43b7c16916dd06f3964d5c77809562960a5385c80",
+    "44c51dbf-1e57-4222-b711-d210dfaa34ae": "0bd7037c2da52d6d352df3c43b7c16916dd06f3964d5c77809562960a5385c80"
+  },
+  "uiState": {
+    "camera": {
+      "position": [
+        -114.4040017380467,
+        511.1619787614141,
+        -147.36757180136303
+      ],
+      "target": [
+        0,
+        0,
+        0
+      ]
+    },
+    "namedViews": [],
+    "selection": [],
+    "layers": [],
+    "groups": [],
+    "materials": []
+  }
+}
